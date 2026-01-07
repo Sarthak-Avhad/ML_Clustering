@@ -17,3 +17,34 @@ The aim is to identify hidden patterns in data that can help businesses understa
 ---
 
 
+## 🔧 Algorithms Used
+
+- K-Means Clustering  
+- DBSCAN (Density Based Clustering)
+
+---
+
+## 🛠️ Technologies Used
+
+- Python  
+- Jupyter Notebook  
+- pandas, NumPy  
+- scikit-learn  
+- matplotlib / seaborn  
+
+---
+
+## 🔹 Steps Performed
+
+1. Loaded and explored the dataset  
+2. Data cleaning & handling missing values  
+3. Feature scaling using StandardScaler  
+4. Finding optimal clusters using Elbow Method & Dendrogram  
+5. Applied K-Means, Hierarchical & DBSCAN algorithms  
+6. Visualized clusters for insights
+
+---
+
+
+
+
