@@ -46,5 +46,15 @@ The aim is to identify hidden patterns in data that can help businesses understa
 ---
 
 
+## 📈 Applications
+
+- Customer segmentation  
+- Marketing strategy optimization  
+- Behavioral analysis  
+- Business intelligence & analytics
+
+---
+
+
 
 
